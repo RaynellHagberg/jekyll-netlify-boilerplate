@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three.js Graphics
-author: john_doe
+author: Raynell Hagberg
 date: '2019-02-07 19:02:10'
 intro_paragraph: >-
   # **_Starting With the Basics_ **
