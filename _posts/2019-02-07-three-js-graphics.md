@@ -24,6 +24,6 @@ intro_paragraph: |-
 
 <https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/starburst.js>
 
-## A sphere of randomly generated starbursts:
+## A sphere of randomly generated colorful points:
 
 <https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/sphereOfStarbursts.js>
