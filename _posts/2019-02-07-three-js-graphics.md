@@ -2,9 +2,9 @@
 layout: post
 title: Three.js Graphics - Part 1
 author: john_doe
-date: '2019-02-07 19:02:10'
+date: '2019-04-18 17:04:10'
 intro_paragraph: |-
-  #  ****
+  # 
 
   ##
 ---
