@@ -4,26 +4,28 @@ title: Three.js Graphics - Part 1
 author: john_doe
 date: '2019-02-07 19:02:10'
 intro_paragraph: |-
-  # **_Starting With the Basics_ **
+  #  ****
 
   ##
 ---
-## A blue square:
+# A torus with user controls:
 
-<https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/square.js>
+<https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/torusGeometry.js>
 
-## An open red box:
+# A 3D matrix of cubes:
 
-<https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/cubeOpenFace.js>
+<https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/cubeMatrix3D.js>
 
-## An n-sided polygon with color interpolation:
+# An n-step ziggurat with height and scale factors:
 
-<https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/regularPolygon.js>
+<https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/ziggurat.js>
 
-## A starburst of randomly generated lines:
+# A helix made of objects:
 
-<https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/starburst.js>
+<https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/helix.js>
 
-## A sphere of randomly generated colorful points:
+# A program to generate ziggurats with parameters controlled by user:
 
-<https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/sphereOfStarbursts.js>
+<https://raynellhagberg.github.io/three.js-graphics/index.html?load=js/createYourZiggurat.js>
+
+#
