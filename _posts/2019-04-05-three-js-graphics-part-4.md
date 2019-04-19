@@ -2,7 +2,7 @@
 layout: post
 title: Three.js Graphics - Part 4
 author: john_doe
-date: '2019-04-05 20:04:96'
+date: '2019-04-19 17:04:96'
 intro_paragraph: '#'
 ---
 # Random boxes (refresh screen for a new set of boxes):
